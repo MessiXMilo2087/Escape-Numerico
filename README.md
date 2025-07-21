@@ -16,3 +16,6 @@ El juego te dirá si el número secreto es mayor o menor al que probaste.
 ## Autor
 
 MessiXMilo2087
+
+<img width="1024" height="1024" alt="Code bracker" src="https://github.com/user-attachments/assets/5ade7175-3f22-49ed-93bb-a263d5d9aa6e" />
+<img width="1536" height="1024" alt="Code bracker photo" src="https://github.com/user-attachments/assets/a66401ea-6c3e-47bb-947e-475b919327c5" />
